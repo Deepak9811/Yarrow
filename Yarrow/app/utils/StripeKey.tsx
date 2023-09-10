@@ -1,0 +1,4 @@
+export const Key = {
+  test_key: `pk_test_51MAFfuEEZPWHAUoGjFn1ZgSNkurxY7ErHnc7zBG91GPjULm4h7ju5b8jc0z0zV2TpagRx2iD8ZGmsZcxASkeml1a00JfRN4Rg0`,
+  live_key: `pk_live_51MAFfuEEZPWHAUoGCcB4vEROwXCjyPdVm0BARzW1P79KHnhtpdIvyomp8DcMH98JauGUiMEjCZ8mX6w2iS8tS16O006y85ciYI`,
+};

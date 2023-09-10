@@ -1,0 +1,20 @@
+export const Screens = {
+  //screens
+  splash: 'SplashScreen',
+  onBoarding: 'OnBoardingScreen',
+  login: 'LoginScreen',
+  signUp: 'SignUpScreen',
+  forgotPass: 'ForgotPassScreen',
+  home: 'HomeScreen',
+  addItem: 'AddItemScreen',
+  profile: 'ProfileScreen',
+  bottomTab: 'BottomTab',
+  buyPremium: 'BuyPremiumScreen',
+  stripeScreen: 'StripePaymentScreen',
+  editProfile: 'EditProfileScreen',
+  itemDetail: 'ItemDetailScreen',
+  myItems: 'MyItemsScreen',
+  notification: 'NotificationsScreen',
+  addLocation: 'AddLocationScreen',
+  activity: 'ActivityScreen',
+};

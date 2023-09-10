@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "565704586185",
+    "firebase_url": "https://yarrow-testing-default-rtdb.firebaseio.com",
+    "project_id": "yarrow-testing",
+    "storage_bucket": "yarrow-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565704586185:android:d5200b635a9901912b2e18",
+        "android_client_info": {
+          "package_name": "com.test1.yarrow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565704586185-g843k3ebb9t3o08qj5g8t4r85vdhpk10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test1.yarrow",
+            "certificate_hash": "a904bb27e6e0b0b987c9e2eb932851f8996e6a58"
+          }
+        },
+        {
+          "client_id": "565704586185-u4o6md4u62d7c3uc4uusolscld6tp68f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test1.yarrow",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "565704586185-2rgf0a6hbnmin3pciq9s60s4aptn887t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMuN8mJDtwHxYkZzx3HfmBql40zXkJU3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565704586185-2rgf0a6hbnmin3pciq9s60s4aptn887t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "565704586185-c5c5tucsapjjbb7icautm1er14pap97h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.Yarrow"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565704586185:android:00a1d61e2ba1fb4b2b2e18",
+        "android_client_info": {
+          "package_name": "com.yarrow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565704586185-2rgf0a6hbnmin3pciq9s60s4aptn887t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMuN8mJDtwHxYkZzx3HfmBql40zXkJU3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565704586185-2rgf0a6hbnmin3pciq9s60s4aptn887t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "565704586185-c5c5tucsapjjbb7icautm1er14pap97h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.Yarrow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

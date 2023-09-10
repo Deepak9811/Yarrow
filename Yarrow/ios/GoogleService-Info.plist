@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>565704586185-c5c5tucsapjjbb7icautm1er14pap97h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.565704586185-c5c5tucsapjjbb7icautm1er14pap97h</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>565704586185-g843k3ebb9t3o08qj5g8t4r85vdhpk10.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCC50YkFQNYZVx2Dr4MYh1xiSLwY2m717o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>565704586185</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.Yarrow</string>
+	<key>PROJECT_ID</key>
+	<string>yarrow-testing</string>
+	<key>STORAGE_BUCKET</key>
+	<string>yarrow-testing.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:565704586185:ios:6a250ce4106ea0012b2e18</string>
+	<key>DATABASE_URL</key>
+	<string>https://yarrow-testing-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
